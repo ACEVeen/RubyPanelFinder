@@ -4,6 +4,7 @@
 /login/admin
 /admin/login
 /administrator/login.php
+/Administrator/login.php
 /giris
 /yonetim
 /yonetici
