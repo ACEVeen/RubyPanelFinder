@@ -1,0 +1,13 @@
+/admin
+/login
+/administrator
+/login/admin
+/admin/login
+/administrator/login.php
+/giris
+/yonetim
+/yonetici
+/panel
+/ADMIN/Login.aspx
+/phpmyadmin
+/cpanel
